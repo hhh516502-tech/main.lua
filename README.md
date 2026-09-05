@@ -41,7 +41,7 @@ end)
 
 -- Giảm một số tải rendering
 Lighting.GlobalShadows = false
-Lighting.FogEnd = 100000000000000000000000000
+Lighting.FogEnd = 10
 
 -- Terrain
 local terrain = Workspace:FindFirstChildOfClass("Terrain")
